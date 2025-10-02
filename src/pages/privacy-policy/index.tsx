@@ -92,7 +92,7 @@ const PrivacyPolicy: React.FC = () => {
             and email address to reply to your query and we won’t share that information with third party.
             To promote our services, events, and
             educational materials through targeted advertising and promotional
-            campaigns.If you are subscribing to our blog you will get emails from substack. You will get emails about a new article, 
+            campaigns. If you are subscribing to our blog you will get emails from substack. You will get emails about a new article, 
             freebies, e-book and much more. 
             If you want you can unsubscribe to the emails and it is really easy. You can read About the General Data Protection
           </li>
@@ -110,7 +110,7 @@ const PrivacyPolicy: React.FC = () => {
         <p className="mb-4">
           We will retain your personal information for as long as necessary to
           fulfill the purposes outlined in this Privacy Policy, unless a longer
-          retention period is required or permitted by law.For users that register on our website (if any), 
+          retention period is required or permitted by law. For users that register on our website (if any), 
           we also store the personal information they provide in their user profile. All users can see, edit,
            or delete their personal information at any time (except they cannot change their username). Website 
            administrators can also see and edit that information.
@@ -151,7 +151,7 @@ const PrivacyPolicy: React.FC = () => {
           What third parties we receive data from
         </h3>
         <p className="mb-4">
-          We recieve data from Google AdSense and Google Analytics about the user behaviour.
+          We receive data from Google AdSense and Google Analytics about the user behaviour.
           We reserve the right to update or modify this Privacy Policy at any
           time. We will notify you of any changes by posting the new Privacy
           Policy on this page. Your continued use of our website after any
