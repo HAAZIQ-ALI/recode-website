@@ -25,4 +25,6 @@ yarn-error.log*
 package-lock.json
 
 # Temporary files
-/tmp/
+/tmp/# Compiled JavaScript files (from TypeScript)
+*.js
+echo ___BEGIN___COMMAND_OUTPUT_MARKER___ ; PS1= ; PS2= ; EC=0 ; echo ___BEGIN___COMMAND_DONE_MARKER___0 ; }.config.js
