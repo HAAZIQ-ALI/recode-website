@@ -36,7 +36,7 @@ const testimonials = [
   {
     img: "https://dummyimage.com/80x80/222/fff&text=S",
     name: "Sachin",
-    review: "Sanjay has been a great support in knowing various career paths and upcoming tech. The call was very crisp but valueable at the same time. For sure I am gonna schedule a call probably next month to give him updates. Thanks a ton Sanjay :)",
+    review: "Sanjay has been a great support in knowing various career paths and upcoming tech. The call was very crisp but valuable at the same time. For sure I am gonna schedule a call probably next month to give him updates. Thanks a ton Sanjay :)",
     stars: 5,
   },
   {

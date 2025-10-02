@@ -224,6 +224,8 @@ const config: Config = {
       darkTheme: prismThemes.dracula,
     },
     algolia: {
+      // TODO: Replace with actual Algolia credentials when search is configured
+      // Get credentials from: https://www.algolia.com/
       appId: "YOUR_APP_ID",
       apiKey: "YOUR_SEARCH_API_KEY",
       indexName: "YOUR_INDEX_NAME",

@@ -72,10 +72,10 @@ const PrivacyPolicy: React.FC = () => {
           </li>
           <li>
             <strong>Cookies & Analytics:</strong> If you leave a comment on our site you may opt-in to save your name,
-             email address and website in cookies. We use third party app giscuss for this purpose to directly authorise with Github. 
+             email address and website in cookies. We use third party app Giscus for this purpose to directly authorize with GitHub. 
              If you have an account and you log in to this site, we will set a temporary cookie to determine if your browser accepts cookies.
-              This cookie contains no personal data and is discarded when you close your browser.These are for your convenience so that you do not have to fill in your
-              details again when you leave another comment. These cookies will last for oneTo analyze trends, track user
+              This cookie contains no personal data and is discarded when you close your browser. These are for your convenience so that you do not have to fill in your
+              details again when you leave another comment. These cookies will last for one year. To analyze trends, track user
             interactions, and gather demographic information to improve our
             website&apos;s performance and user experience.
           </li>
